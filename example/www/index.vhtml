@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <body>
+	<?
+	a = [9, 0]
+	for i in range(1, a+1) {
+	    a[10]
+	}
+	?>
+	<form action="index.vhtml" method="put" enctype="multipart/form-data">
+        	<input type="file" name="image" /><br>
+		<input type="file" name="image" /><br>
+        	<input type="submit"/>
+     	</form>
+    </body>
+</html>

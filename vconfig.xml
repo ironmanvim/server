@@ -1,0 +1,15 @@
+<vconfig>
+    <m-id>2</m-id>
+    <servers>
+        <server id="1">
+            <name>Web Handler</name>
+            <port>5000</port>
+            <work-folder>web_handler</work-folder>
+        </server>
+        <server id="2">
+            <name>Example Server</name>
+            <port>8080</port>
+            <work-folder>example/www</work-folder>
+        </server>
+    </servers>
+</vconfig>

@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+
+background-color: #EEF
+
+}
+
+img{
+    width: 400px;
+    border-style:solid;
+   border-width: 2px;
+   border-color: #333333 ;
+   margin: 4px;
+   
+}
+
+div{
+    width: 420px;
+    margin: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #BBB ;
+    
+    font-size: 10px;
+    
+    background-color: #FFF;
+    padding:5px;
+}
+
